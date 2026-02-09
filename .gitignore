@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.yolovenv/
+yolovenv/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyInstaller
+dist/
+build/
+
+# Packages
+*.egg
+*.egg-info
+
+# Model weights, outputs, and runs
+weights/
+models/
+runs/
+outputs/
+output_detection.mp4
+
+# OS generated files
+Thumbs.db
+
+# Env files
+.env
+
+# Temporary files
+*.tmp
+
+# Ignore installed site-packages (safe for local dev)
+site-packages/
+
+# Add your IDE / tooling ignores below

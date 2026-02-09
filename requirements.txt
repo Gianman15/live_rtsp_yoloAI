@@ -1,0 +1,20 @@
+# YOLOv8 RTSP Object Detection - Requirements
+# Python >= 3.8
+
+# Core dependencies
+ultralytics>=8.0.0
+torch>=1.8.0
+torchvision>=0.9.0
+opencv-python>=4.6.0
+numpy>=1.23.0
+pillow>=7.1.2
+matplotlib>=3.3.0
+scipy>=1.4.1
+pyyaml>=5.3.1
+requests>=2.23.0
+psutil>=5.8.0
+polars>=0.20.0
+
+# Optional but recommended
+# tensorboard  # For training visualization
+# wandb        # For experiment tracking

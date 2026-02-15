@@ -10,6 +10,7 @@ venv/
 env/
 .yolovenv/
 yolovenv/
+venvFront
 
 # Editor directories and files
 .vscode/
@@ -50,6 +51,7 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+data/
 
 # Ignore installed site-packages (safe for local dev)
 site-packages/
